@@ -55,3 +55,7 @@ Specific error codes include:
 `Error code 2444`: The expire_in parameter was either absent or its value was not greater than one.
 
 `Error code 2445`: The value provided for the expire_in parameter exceeds 86400 seconds (one day).
+
+## DeepWiki Link
+
+https://deepwiki.com/josev2046/Vimeo-Expiring-Embed-URLs
