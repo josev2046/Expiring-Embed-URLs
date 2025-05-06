@@ -1,5 +1,7 @@
 # Vimeo Expiring Embed URLs: Technical Notes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15350370.svg)](https://doi.org/10.5281/zenodo.15350370)
+
 These notes outline the Beta method for generating time-limited embed URLs for Vimeo videos via their API. Note that this functionality requires a Vimeo enterprise account with the relevant capability enabled.
 
 ## Generating an Expiring Embed URL
